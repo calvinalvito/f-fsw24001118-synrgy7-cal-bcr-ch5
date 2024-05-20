@@ -14,7 +14,7 @@
 8. Finally, start the server by running `npm run dev`.
 9. Ensure that your database is connected to the project as shown in the image below:
 
-![Database Connected](./database_connection.png)
+![Database Connected](./Database_Connection.PNG)
 
 10. Enjoy using the application!
 
@@ -147,6 +147,6 @@ The base URL for all requests is `http://localhost:3000/api/cars`.
     {"message":"Car deleted successfully"}
     ```
 
-![ERD CARS](./ERD_Cars.png)
+![ERD CARS](ERD_Cars.PNG)
 
 
